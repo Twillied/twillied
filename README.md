@@ -25,3 +25,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=twillied&show_icons=true&count_private=true" style="width: 450px; max-width: 100%;" />
