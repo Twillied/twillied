@@ -26,6 +26,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=twillied&theme=tokyonight&show_icons=true&count_private=true&hide=" style="width: 450px; max-width: 100%;" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=twillied&theme=tokyonight&show_icons=true&count_private=true&hide=" style="width: 450px; max-width: 100%;" /> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Twillied&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
