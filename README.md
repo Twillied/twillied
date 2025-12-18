@@ -30,4 +30,5 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=twillied&theme=tokyonight&show_icons=true&count_private=true&hide=" style="width: 450px; max-width: 100%;" /> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Twillied&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Twillied&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Twillied)](https://git.io/streak-stats)
